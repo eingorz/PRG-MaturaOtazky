@@ -6,7 +6,7 @@
 - Pro Text:
 	- FileReader
 	- FileWriter
-- Pro Binary
+- Pro Binary[[200 - SKUUL/KOMUNISMUS/prg/Maturitní otázky]]
 	- FileInputStream
 	- FileOutputStream
 # C

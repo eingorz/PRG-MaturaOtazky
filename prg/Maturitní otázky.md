@@ -40,41 +40,38 @@
 * Makra
 * Podmíněný překlad
 * Hlavičkové soubory
-# 11. Pointery (C)
+# [[11. Pointery (C)]]
 - Deklarace, charakteristika a využití
 pointerů
 - Dynamické přidělování paměti v C
 - Pointerova aritmetika
 -  Pointery a funkce
-# 12. Jednorozměrné pole (C)
+# [[12. Jednorozměrné pole (C)]]
 -  Deklarace a charakteristika statického
 pole
 -  Deklarace a charakteristika
 dynamického pole
 -  Pole jako parametr funkce
 -  Třídící algoritmus
-# 13. Vícerozměrné pole (C)
--  Deklarace a charakteristika statického
-vícerozměrného pole
--  Deklarace a charakteristika
-dynamického vícerozměrného pole:
+# [[13. Vícerozměrné pole (C)]]
+-  Deklarace a charakteristika statického vícerozměrného pole
+-  Deklarace a charakteristika dynamického vícerozměrného pole:
 	- Pole pointerů
 	- Pointer na pole
 	- Pointer na pointer
-# 14. Znaky a řetězce (C)
+# [[14. Znaky a řetězce (C)]]
 -  Deklarace a charakteristika znakové
 proměnné
 -  Charakteristika řetězce v jazyce C
 -  Základy práce s řetězci
 -  Funkce pro práci s řetězci
 -  Parametry funkce main()
-# 15. Soubory (C)
+# [[15. Soubory (C)]]
 -  Deklarace a charakteristika proměnné
 pro práci se soubory
 -  Textové a binární soubory
 -  Práce se soubory
-# 16. Základy objektově orientovaného
-programování, třídy a objekty (Java)
+# 16. Základy objektově orientovaného programování, třídy a objekty (Java)
 -  Strukturované programování, OOP
 -  Charakteristika pojmu objekt a třída
 -  Vlastnosti OOP – zapouzdření,
